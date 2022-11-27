@@ -1,5 +1,5 @@
 # MERN-CURD_Operations
-this project is based on the MERN CURD operations, this project consist of both front-end and back-end. i have used local-storage to store data..
+this project is based on the MERN CURD operations, this project consist of both front-end and back-end.
 
 #Fron-end =>
 
