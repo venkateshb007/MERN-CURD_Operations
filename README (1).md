@@ -65,7 +65,7 @@ backend is built with using
 
 1.Install node-modules
 ```bash
-  npm install
+  npm install -g nodemon
 ```
 2.Change directory
 ```bash
