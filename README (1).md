@@ -66,6 +66,9 @@ backend is built with using
 1.Install node-modules
 ```bash
   npm install -g nodemon
+  npm i express
+  npm i mongoose
+  npm i jsonwebtoken
 ```
 2.Change directory
 ```bash
