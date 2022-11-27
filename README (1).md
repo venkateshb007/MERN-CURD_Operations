@@ -57,7 +57,7 @@ npm start
 #backend =>
 
 backend is built with using
-1. mongoodb for local-storage data.
+1. mongoodb for data-storage.
 2. node.js -  It is used as backend service where javascript works on the server-side of the application. 
 3. express.js - organize web applications on the server-side into a more organized MVC architecture
 
