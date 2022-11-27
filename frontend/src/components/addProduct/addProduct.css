@@ -1,0 +1,44 @@
+
+.a-product{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 10px;
+  /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+  /* box-shadow: 10px 10px 15px;  */
+  /* background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet); */
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  background: rgb(2,0,36);
+  background-color: #4158D0;
+  background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+  
+}
+
+.a-h1{
+  margin: 25px;
+}
+.a-inputBox{
+    display: block;
+    margin: 25px;
+    padding:7px;
+    width: 300px;
+    border: 2px solid goldenrod;
+    border-radius: 5px;
+  
+  }
+
+  .a-appButton{
+    margin: 25px;
+    padding: 10px;
+    width: 150px;
+    background-color: goldenrod;
+    border: 1px solid;
+    cursor: pointer;
+  }
+
+  .a-footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }

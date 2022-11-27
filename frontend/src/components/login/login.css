@@ -1,0 +1,41 @@
+.my-login{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+  ;
+  border-radius: 10px;
+  /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+  box-shadow: 10px 10px 15px;
+   
+  }
+
+  .l-footer{
+    position: fixed;
+    bottom: 0;
+  width: 100%;
+
+  }
+
+  .log{
+    padding-left: 25px;
+  }
+  .input-Box{
+    display: block;
+    margin: 25px;
+    padding:7px;
+    width: 300px;
+    border: 2px solid goldenrod;
+    border-radius: 5px;
+    
+  }
+
+.app-Button{
+    margin: 25px;
+    padding: 10px;
+    width: 150px;
+    background-color: goldenrod;
+    border: 1px solid;
+    cursor: pointer;
+  }

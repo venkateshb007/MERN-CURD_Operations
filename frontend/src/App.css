@@ -1,0 +1,27 @@
+#root{
+  background-color: #FFDEE9;
+  background-image: linear-gradient(0deg, #FFDEE9 0%, #B5FFFC 100%);   
+}
+
+
+.logo{
+  width:50px;
+  float: left;
+  border-radius: 50%;
+  margin-top: 1px;
+  margin-left: 20px;
+  /* margin-bottom: 1px; */
+}
+
+.invalid-input{
+  display: block;
+  color:red;
+  margin-top: -20px;
+  margin-left:25px;
+}
+
+
+
+
+
+

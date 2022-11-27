@@ -1,0 +1,40 @@
+.u-product{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #00DBDE;
+  background-image: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%);
+  
+  ;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;  
+}
+
+.u-h1{
+  margin: 25px;
+}
+
+.u-inputBox{
+    display: block;
+    margin: 25px;
+    padding:7px;
+    width: 300px;
+    border: 2px solid goldenrod;
+    border-radius: 5px; 
+  }
+
+  .u-appButton{
+    margin: 25px;
+    padding: 10px;
+    width: 150px;
+    background-color: goldenrod;
+    border: 1px solid;
+    cursor: pointer;
+  }
+
+  .u-footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }

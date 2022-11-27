@@ -1,0 +1,36 @@
+.p-product-list{
+  text-align: center;
+  margin-top: 50px;box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+  
+}
+
+.pd-h3{
+  font-weight: bold;
+  font-size: larger;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+.p-product-list ul li{
+  display: inline-block;
+  border: 1px solid goldenrod;
+  padding: 5px;
+  width: 150px;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+.p-product-list ul{
+  margin: 0;
+  
+}
+
+  .search-product-box{
+    width:400px;
+    margin:20px;
+    height:40px;
+    border:1px solid goldenrod;
+    padding-left: 20px;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+  }
+
+.p-footer{
+  margin-top: 40px;
+}

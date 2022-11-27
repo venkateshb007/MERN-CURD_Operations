@@ -1,0 +1,42 @@
+.register{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #00DBDE;
+  background-color: #FFDEE9;
+  background-image: linear-gradient(0deg, #FFDEE9 0%, #B5FFFC 100%);
+  
+
+  ;
+  border-radius: 10px;
+  /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+  box-shadow: 10px 10px 15px;  
+  }
+
+  .r-h1{
+    margin: 25px;
+  }
+  .r-inputBox{
+    display: block;
+    margin: 25px;
+    padding:7px;
+    width: 300px;
+    border: 2px solid goldenrod;
+    border-radius: 5px;
+  }
+
+  .r-appButton{
+    margin: 25px;
+    padding: 10px;
+    width: 150px;
+    background-color: goldenrod;
+    border: 1px solid;
+    cursor: pointer;
+  }
+
+  .s-footer{
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+  }
